@@ -1,0 +1,5 @@
+dataset: test
+schema:
+- name: id
+  type: INTEGER
+  mode: REQUIRED

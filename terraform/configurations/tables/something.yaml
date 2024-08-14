@@ -1,0 +1,5 @@
+dataset: other
+schema:
+- name: id
+  type: INTEGER
+  mode: REQUIRED
