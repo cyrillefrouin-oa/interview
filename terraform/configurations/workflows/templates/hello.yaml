@@ -1,0 +1,6 @@
+main:
+    steps:
+    - hello:
+        call: sys.log
+        args:
+            text: "Hello ${name}!"
